@@ -199,6 +199,9 @@ section.articulos {
   display: grid;
   justify-content: space-around;
   grid-template-columns: auto auto auto;
+  position: absolute;
+  top: 750px;
+  left: 155px;
 }
 section.articulos article {
   width: 320px;
